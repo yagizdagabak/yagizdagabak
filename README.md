@@ -4,9 +4,10 @@ building **[vibespace](https://vibespace.build)**
 
 <p>
   <a href="https://linkedin.com/in/yagiz-dagabak-36521ab6">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
   </a>
   <a href="https://x.com/yagizdagabak">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+    <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />
   </a>
 </p>
+
