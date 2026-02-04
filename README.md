@@ -1,6 +1,6 @@
 ### hi, i'm yagiz 👋
 
-building [vibespace](https://vibespace.dev) — scriptable sandboxes for AI coding agents
+building [vibespace](https://vibespace.build) — scriptable sandboxes for AI coding agents
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
