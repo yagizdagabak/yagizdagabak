@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="64" viewBox="0 0 520 64">
+  <defs>
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0b0b"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="0" y="0" width="520" height="64" rx="16" fill="url(#bg)"/>
+
+    <rect x="10" y="10" width="44" height="44" rx="12" fill="#000000"/>
+    <image x="14" y="14" width="36" height="36"
+      href="https://raw.githubusercontent.com/yagizdagabak/yagizdagabak/main/vibespace-logo.png"/>
+
+    <text x="78" y="41"
+      font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+      font-size="26" font-weight="600" fill="#ffffff" letter-spacing="0.2">
+      vibespace
+    </text>
+
+    <text x="470" y="41"
+      font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+      font-size="26" font-weight="600" fill="#ffffff">
+      ↗
+    </text>
+  </g>
+</svg>
