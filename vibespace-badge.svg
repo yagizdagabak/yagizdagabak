@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="64" viewBox="0 0 520 64">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="72" viewBox="0 0 560 72">
   <defs>
     <filter id="shadow" x="-20%" y="-40%" width="140%" height="180%">
-      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.35"/>
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
     </filter>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0b0b0b"/>
@@ -10,21 +10,28 @@
   </defs>
 
   <g filter="url(#shadow)">
-    <rect x="0" y="0" width="520" height="64" rx="16" fill="url(#bg)"/>
+    <rect x="0" y="0" width="560" height="72" rx="18" fill="url(#bg)"/>
 
-    <rect x="10" y="10" width="44" height="44" rx="12" fill="#000000"/>
-    <image x="14" y="14" width="36" height="36"
-      href="https://raw.githubusercontent.com/yagizdagabak/yagizdagabak/main/vibespace-logo.png"/>
+    <!-- left logo tile -->
+    <rect x="12" y="12" width="48" height="48" rx="14" fill="#000000"/>
 
-    <text x="78" y="41"
+    <!-- vibespace mark built in pure svg, no external image -->
+    <rect x="20" y="20" width="18" height="26" rx="4" fill="#00ABAB"/>
+    <rect x="42" y="20" width="18" height="14" rx="4" fill="#FF7D4B"/>
+    <rect x="42" y="38" width="18" height="22" rx="4" fill="#F102F3"/>
+    <rect x="20" y="48" width="18" height="12" rx="4" fill="#F5F50A"/>
+
+    <!-- label -->
+    <text x="84" y="46"
       font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
-      font-size="26" font-weight="600" fill="#ffffff" letter-spacing="0.2">
+      font-size="30" font-weight="700" fill="#ffffff">
       vibespace
     </text>
 
-    <text x="470" y="41"
+    <!-- navigation arrow -->
+    <text x="520" y="47"
       font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
-      font-size="26" font-weight="600" fill="#ffffff">
+      font-size="30" font-weight="700" fill="#ffffff">
       ↗
     </text>
   </g>
