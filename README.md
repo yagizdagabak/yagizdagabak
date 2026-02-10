@@ -1,6 +1,6 @@
 ### hi, i'm yagiz 👋
 
-building a safe space to vibe
+building a safe space to vibe.
 
 <p>
   <a href="https://vibespace.build"><img alt="vibespace" height="24" src="https://raw.githubusercontent.com/yagizdagabak/yagizdagabak/main/vibespace-badge.svg" /></a>&nbsp;
